@@ -3,5 +3,6 @@ name = "irc_library"
 description = "An IRC protocol library"
 version = "0.1.0"
 edition = "2024"
+repository = "https://github.com/nyaruku/irc_library"
 
 [dependencies]
